@@ -1,9 +1,9 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Timothy En Haw
+    name: Timothy En Haw Chan
     type: person
-    tagline: Biomedical Scientist
+    tagline: Biomedical Scientist / Biotech Editor
     description: Timothy En Haw Chan is a scientist working on understanding epigenetics in cancer and cell signaling.
     social:
       twitter: timothykoala
