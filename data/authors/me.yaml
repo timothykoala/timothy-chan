@@ -65,8 +65,7 @@ education:
     institution: "Max Planck IMPRS-IEM PhD Program & University of Freiburg"
     start: "2018-09-01"
     end: "2025-12-01"
-    summary: "
-    Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
+    summary: "Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
     button:
       text: "Read Info"
       url: "https://www.ie-freiburg.mpg.de/person/95279/2342"
@@ -98,19 +97,19 @@ experience:
 skills:
   - name: "Molecular Biology"
     items:
-      - label: Python
+      - label: "Python"
         level: 5
-      - label: Machine Learning
+      - label: "Machine Learning"
         level: 5
-      - label: Cloud Computing
+      - label: "Cloud Computing"
         level: 4
   - name: "Bioinformatics"
     items: 
-      - label: Academic Writing
+      - label: "Academic Writing"
         level: 5
-      - label: Conference Presentations
+      - label: "Presentations"
         level: 4
-      - label: Grant Proposals
+      - label: "Grant Proposals"
         level: 4
 languages:
   - name: "English"
