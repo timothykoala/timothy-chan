@@ -1,5 +1,5 @@
 ---
-title: Talks at IOH Innovation Open House
+title: Talk at IOH Innovation Open House
 date: 2016-10-26
 links:
   - name: Website

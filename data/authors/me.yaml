@@ -45,22 +45,6 @@ interests:
   - "Signaling Transduction"
   - "Synthetic Biology"
 education:
-  - degree: "BSc Biomedical Sciences"
-    institution: "Chang Gung University"
-    start: "2012-09-01"
-    end: "2016-06-28"
-    summary: " 
-    <br>· Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences. </br>
-    <br>· Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD.</br>
-    <br>· First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters).</br>"
-  - degree: "MS Biomedical Sciences"
-    institution: "Chang Gung University"
-    start: "2016-09-01"
-    end: "2018-08-01"
-    summary: "
-    <br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br>
-    <br>· Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. </br>
-    <br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
   - degree: "PhD Biology"
     institution: "Max Planck IMPRS-IEM PhD Program & University of Freiburg"
     start: "2018-09-01"
@@ -70,6 +54,22 @@ education:
       text: "Read Info"
       url: "https://www.ie-freiburg.mpg.de/person/95279/2342"
       icon: ""
+  - degree: "MS Biomedical Sciences"
+    institution: "Chang Gung University"
+    start: "2016-09-01"
+    end: "2018-08-01"
+    summary: "
+    <br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br>
+    <br>· Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. </br>
+    <br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
+  - degree: "BSc Biomedical Sciences"
+    institution: "Chang Gung University"
+    start: "2012-09-01"
+    end: "2016-06-28"
+    summary: " 
+    <br>· Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences. </br>
+    <br>· Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD.</br>
+    <br>· First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters).</br>"
 experience:
   - role: "IMPRS PhD Researcher"
     org: "German Cancer Consortium DKTK, German Cancer Research Center DKFZ, Germany"
@@ -79,6 +79,11 @@ experience:
     <br>· Working on functional analysis of epigenetic factor in control of cancer cell signaling by multi-omics integration. </br>
     <br>· Experienced with CRISPR editing, epigenetics, transcriptional experiments and data analysis, including RNA-Seq, CUT&RUN, CUT&Tag, ChIP-seq, ATAC-seq, Hi-C. </br>
     <br>· Implementing and optimizing CRISPR editing and RNA-seq data analysis workflow for the lab.</br>"
+  - role: "Reviewer"
+    org: "Cell press, Elsevier"
+    start: "2023-02-01"
+    summary: "
+    <br>· Reviewer for STAR Protocols (Cell Press), Biochimica et Biophysica Acta (BBA) Reviews on Cancer, Gene Reports, Genes & Diseases and Human Gene. </br>"
   - role: "Contributing Editor and Science writer"
     org: "The Investigator Taiwan, Taiwan"
     start: "2015-09-01"
@@ -97,15 +102,15 @@ experience:
 skills:
   - name: "Molecular Biology"
     items:
-      - label: "Python"
+      - label: "RNA-seq"
         level: 5
-      - label: "Machine Learning"
+      - label: "epigenetics"
         level: 5
-      - label: "Cloud Computing"
+      - label: "CUT&RUN"
         level: 4
   - name: "Bioinformatics"
     items: 
-      - label: "Academic Writing"
+      - label: "Multiomics intergration"
         level: 5
       - label: "Presentations"
         level: 4
