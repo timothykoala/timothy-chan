@@ -119,6 +119,8 @@ skills:
         level: 5
       - label: "CUT&RUN"
         level: 5
+      - label: "Gene Editing"
+        level: 4
       - label: "Cancer Research"
         level: 4
   - name: "Bioinformatics"
