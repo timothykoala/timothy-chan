@@ -63,9 +63,9 @@ education:
     start: "2012-09-01"
     end: "2016-06-28"
     summary: " 
-      · Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences
-      · Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD.
-      · First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters)"
+      <br>· Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences. </br>
+      <br>· Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD.</br>
+      <br>· First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters).</br>"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"
