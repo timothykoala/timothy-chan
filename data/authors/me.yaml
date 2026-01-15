@@ -83,7 +83,18 @@ experience:
     org: "Cell press, Elsevier"
     start: "2023-02-01"
     summary: "
-    <br>· Reviewer for STAR Protocols (Cell Press), Biochimica et Biophysica Acta (BBA) Reviews on Cancer, Gene Reports, Genes & Diseases and Human Gene. </br>"
+    <br>· As as Peer Reviewer for STAR Protocols (Cell Press), Biochimica et Biophysica Acta (BBA) Reviews on Cancer, Gene Reports, Genes & Diseases and Human Gene. </br>"
+  - role: "Expert"
+    org: "GLG"
+    start: "2023-05-01"
+    summary: "
+    <br>· As a GLG Network Member consultant, bringing insight and hand-on experience in the life sciences industry to help clients solve some of their business challenges around product development and consumer opinions. </br>"
+   - role: "Judge"
+    org: "iGEM competition"
+    start: "2022-09-01"
+    end: "2022-10-30"
+    summary: "
+    <br>· Judged and reviewed synthetic biology projects from international Genetic Engineered Machine competition's teams. Reviewed the experiment data and human practise activities on team's Wikis, attended team presentations for judging at iGEM jamboree on-site and provided written feedback for the teams. </br>" 
   - role: "Contributing Editor and Science writer"
     org: "The Investigator Taiwan, Taiwan"
     start: "2015-09-01"
@@ -108,13 +119,15 @@ skills:
         level: 5
       - label: "CUT&RUN"
         level: 5
+      - label: "Cancer Research"
+        level: 4
   - name: "Bioinformatics"
     items: 
       - label: "Multiomics intergration"
-        level: 5
-      - label: "Presentations"
         level: 4
-      - label: "Grant Proposals"
+      - label: "R/Python"
+        level: 3
+      - label: "Presentations"
         level: 4
 languages:
   - name: "English"
@@ -134,9 +147,9 @@ languages:
     label: "Basic"
 awards:
   - title: "FASEB TGF-ß Superfamily Conference Travel Award"
-    awarder: "FASEB TGF-ß Superfamily Conference "
+    awarder: "FASEB TGF-ß Superfamily Conference"
     date: "2022-07-01"
-    summary: ""
+    summary: "Travel fellowship to TGF-ß Superfamily Conference in Ireland"
     icon: ""
   - title: "Taiwan Overseas Community Affair Council Graduate Scholarship Award"
     awarder: "Overseas Community Affair Council, Taiwan"

@@ -32,6 +32,11 @@ authors:
 - Kai-Ping Chang
 - Yu-Sun Chang
 author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: "2017-09-06T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -53,7 +58,7 @@ summary: Genetic deletion polymorphism of APOBEC3A DNA editing enzyme as a oral 
 
 tags:
 - Oral Cancer
-- APOBEC
+- APOBEC3A
 - Biomarker
 featured: true
 
