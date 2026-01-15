@@ -49,17 +49,24 @@ education:
     institution: "Chang Gung University"
     start: "2012-09-01"
     end: "2016-06-28"
-    summary: " <br>· Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences. </br> <br>· Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD.</br> <br>· First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters).</br>"
+    summary: " 
+    <br>· Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences. </br>
+    <br>· Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD.</br>
+    <br>· First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters).</br>"
   - degree: "MS Biomedical Sciences"
     institution: "Chang Gung University"
     start: "2016-09-01"
     end: "2018-08-01"
-    summary: "<br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br> <br>· Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. </br><br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
+    summary: "
+    <br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br>
+    <br>· Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. </br>
+    <br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
   - degree: "PhD Biology"
     institution: "Max Planck IMPRS-IEM PhD Program & University of Freiburg"
     start: "2018-09-01"
     end: "2025-12-01"
-    summary: "Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
+    summary: "
+    Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
     button:
       text: "Read Info"
       url: "https://www.ie-freiburg.mpg.de/person/95279/2342"
@@ -77,13 +84,15 @@ experience:
     org: "The Investigator Taiwan, Taiwan"
     start: "2015-09-01"
     end: "2023-02-01"
-    summary: "<br>· Contributing Editor and writer about recent biomedical research. Portfolio: investigator.tw/author/id003/ </br>
-      <br>· As former editor-in-chief (Year 2017), leading the editorial team, performed strategic planning and project management on editorial workflow.</br>"
+    summary: "
+    <br>· Contributing Editor and writer about recent biomedical research. Portfolio: investigator.tw/author/id003/ </br>
+    <br>· As former editor-in-chief (Year 2017), leading the editorial team, performed strategic planning and project management on editorial workflow.</br>"
   - role: "Co-founder"
     org: "Chang Gung University International Genetically Machine iGEM Team, CGU_Taiwan"
     start: "2014-12-01"
     end: "2016-12-01"
-    summary: "<br>· Co-founder who organized the first iGEM team in Chang Gung University. Built an interdisciplinary team to take part the worldwide synthetic biology competition. </br>
+    summary: "
+    <br>· Co-founder who organized the first iGEM team in Chang Gung University. Built an interdisciplinary team to take part the worldwide synthetic biology competition. </br>
       <br>· Wrote proposal, secured team grant funding, did team recruitment and experiments design for the team. The results of RNA toehold switch and engineered G protein-coupled receptor on yeast as biosensor were presented at 2015 iGEM Giant Jamboree in Boston. </br>
       <br>· As team advisor in year 2016.</br>"
 skills:
