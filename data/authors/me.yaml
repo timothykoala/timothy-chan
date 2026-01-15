@@ -54,11 +54,7 @@ education:
     institution: "Chang Gung University"
     start: "2016-09-01"
     end: "2018-08-01"
-    summary: "· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology <br>
-
-      · Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. <br>
-
-      · Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism."
+    summary: "<br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br> <br>· Worked in oral cancer and nasopharyngeal cancer research in Yu-Sun Chang lab. </br><br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
   - degree: "PhD Biology"
     institution: "Max Planck IMPRS-IEM PhD Program & University of Freiburg"
     start: "2018-09-01"
@@ -73,27 +69,23 @@ experience:
     org: "German Cancer Consortium DKTK, German Cancer Research Center DKFZ, Germany"
     start: "2019-01"
     end: "2025-12"
-    summary: "· Working on functional analysis of epigenetic factor in control of cancer cell signaling by multi-omics integration. <br>
-
-      · Experienced with CRISPR editing, epigenetics, transcriptional experiments and data analysis, including RNA-Seq, CUT&RUN, CUT&Tag, ChIP-seq, ATAC-seq, Hi-C. <br>
-
-      · Implementing and optimizing CRISPR editing and RNA-seq data analysis workflow for the lab."
+    summary: "
+    <br>· Working on functional analysis of epigenetic factor in control of cancer cell signaling by multi-omics integration. </br>
+    <br>· Experienced with CRISPR editing, epigenetics, transcriptional experiments and data analysis, including RNA-Seq, CUT&RUN, CUT&Tag, ChIP-seq, ATAC-seq, Hi-C. </br>
+    <br>· Implementing and optimizing CRISPR editing and RNA-seq data analysis workflow for the lab.</br>"
   - role: "Contributing Editor and Science writer"
     org: "The Investigator Taiwan, Taiwan"
     start: "2015-09"
     end: "2023-02"
-    summary: "· Contributing Editor and writer about recent biomedical research. Portfolio: investigator.tw/author/id003/ <br>
-
-      · As former editor-in-chief (Year 2017), leading the editorial team, performed strategic planning and project management on editorial workflow."
+    summary: "<br>· Contributing Editor and writer about recent biomedical research. Portfolio: investigator.tw/author/id003/ </br>
+      <br>· As former editor-in-chief (Year 2017), leading the editorial team, performed strategic planning and project management on editorial workflow.</br>"
   - role: "Co-founder"
     org: "Chang Gung University International Genetically Machine iGEM Team, CGU_Taiwan"
     start: "2014-12"
     end: "2016-12"
-    summary: "· Co-founder who organized the first iGEM team in Chang Gung University. Built an interdisciplinary team to take part the worldwide synthetic biology competition. <br>
-
-      · Wrote proposal, secured team grant funding, did team recruitment and experiments design for the team. The results of RNA toehold switch and engineered G protein-coupled receptor on yeast as biosensor were presented at 2015 iGEM Giant Jamboree in Boston. <br>
-
-      · As team advisor in year 2016"
+    summary: "<br>· Co-founder who organized the first iGEM team in Chang Gung University. Built an interdisciplinary team to take part the worldwide synthetic biology competition. </br>
+      <br>· Wrote proposal, secured team grant funding, did team recruitment and experiments design for the team. The results of RNA toehold switch and engineered G protein-coupled receptor on yeast as biosensor were presented at 2015 iGEM Giant Jamboree in Boston. </br>
+      <br>· As team advisor in year 2016.</br>"
 skills:
   - name: "Molecular Biology"
     items: []
