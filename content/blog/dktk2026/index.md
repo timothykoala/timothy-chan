@@ -1,6 +1,6 @@
 ---
-title: DKTK working group Translational Epigenetics & Novel Pharmacological Modalities 
-summary: "Thanks for presenting my work in the working group"
+title: "DKTK working group: Translational Epigenetics & Novel Pharmacological Modalities"
+summary: "Thanks for presenting my work in the working group."
 date: 2026-01-13
 draft: false
 
