@@ -2,7 +2,7 @@
 title: "EMBL-EBI workshop: Introduction to multiomics data integration and visualisation"
 summary: While travel is still not possible, the workshop is still running online
 date: 2022-03-25
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
