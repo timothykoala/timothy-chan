@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Outreach Projects
-      text: I enjoy scientific communication and experience sharing. Here are a selection of outreach projects that I have worked on over the years.
+      text: I enjoy scientific communication and experience sharing. Here is a selection of outreach projects that I have worked on over the years.
       filters:
         folders:
           - projects
