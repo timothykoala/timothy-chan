@@ -14,6 +14,6 @@ content_meta:
   trending: false
 ---
 
-Finally a conference who no need to travel. While listened to many interesting updates from epigenetics field, poster was presented.
+Finally a conference which no need to travel, right at the home institute. While listened to many interesting updates from epigenetics field, poster was presented.
 
 - 👉 [**More detail about the conference**](https://events.ie-freiburg.mpg.de/program)
