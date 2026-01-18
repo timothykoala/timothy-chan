@@ -35,7 +35,7 @@ abstract: |
   Transforming growth factor β (TGF-β) signaling is a highly pleiotropic pathway with an important role in development, homeostasis and cancer. Chromatin regulators contribute to the regulation of TGF-β responsive transcription. Requirement of subunits of the MLL3/MLL4 histone methyltransferase complexes for TGF-β responses have been reported. However, their exact roles are not fully understood.
 
 # Summary. An optional shortened abstract.
-summary: "One-line takeaway for readers skimming listings."
+summary: "TGF-β induced MLL4 methlytransferase recruiment"
 
 tags:
   - MLL4
