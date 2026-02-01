@@ -16,7 +16,7 @@ role: "Scientist - Biotech Editor"
 bio: "Timothy En Haw Chan is a scientist working on understanding epigenetics regulation in cancer and cell signaling, focuses on the interplay of external stimulus to cellular epigenetic regulation. Expertise in information curation, data analysis and synthesis idea. Passionate to summarize discoveries, biotech industry development and communicating science in biomedical field. He lived in Malaysia, Taiwan, Germany and traveled to more than 50 countries. Other than research, he is an amateur writer and science outreach educator."
 affiliations:
   - name: "Max Planck Insitute of Immunobiology and Epigenetics"
-    url: "https://www.ie-freiburg.mpg.de/person/95279/2342"
+    url: "https://www.ie-freiburg.mpg.de/5170857/chan"
   - name: "German Cancer Research Center DKFZ"
     url: "https://dktk.dkfz.de/en/research/dktk-researchers/timmers-group/"
 links:
@@ -52,7 +52,7 @@ education:
     summary: "Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
     button:
       text: "Read Info"
-      url: "https://www.ie-freiburg.mpg.de/person/95279/2342"
+      url: "https://www.ie-freiburg.mpg.de/5170857/chan"
       icon: ""
   - degree: "MS Biomedical Sciences"
     institution: "Chang Gung University, Taiwan"
@@ -148,6 +148,11 @@ languages:
     level: 1
     label: "Basic"
 awards:
+  - title: "Vivian Wu Journalism Award 2025 for Investigative Journalism"
+    awarder: "Vivian Wu Journalism Award Foundation, Taiwan"
+    date: "2025-12-01"
+    summary: "Awarded for commentary article contributed to Investigative Journalism report on Commonwealth Magazine, about “Taiwan — A Fake Study Abroad Paradise”."
+    icon: ""
   - title: "FASEB TGF-ß Superfamily Conference Travel Award"
     awarder: "FASEB TGF-ß Superfamily Conference"
     date: "2022-07-01"
