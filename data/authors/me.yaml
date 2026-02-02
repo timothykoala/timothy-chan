@@ -62,10 +62,10 @@ education:
     <br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br>
     <br>· Worked in oral cancer and nasopharyngeal cancer research in Prof. Dr. Yu-Sun Chang lab. </br>
     <br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
-      button:
-    text: "Read Info"
-    url: "https://pure.lib.cgu.edu.tw/zh/publications/transcriptional-regulation-of-dna-editing-enzyme-apobec3a-in-oral/"
-    icon: ""
+    button:
+      text: "Read Info"
+      url: "https://pure.lib.cgu.edu.tw/zh/publications/transcriptional-regulation-of-dna-editing-enzyme-apobec3a-in-oral/"
+      icon: ""
   - degree: "BSc Biomedical Sciences"
     institution: "Chang Gung University, Taiwan"
     start: "2012-09-01"
