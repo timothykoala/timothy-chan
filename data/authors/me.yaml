@@ -48,7 +48,7 @@ education:
   - degree: "PhD Biology"
     institution: "Max Planck IMPRS-IEM PhD Program & University of Freiburg, Germany"
     start: "2018-09-01"
-    end: "2025-12-31"
+    end: "2026-03-31"
     summary: "Thesis on contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in TGF-beta signaling. Supervised by Prof Dr Marc Timmers."
     button:
       text: "Read Info"
@@ -62,6 +62,10 @@ education:
     <br>· Master of Science (MS), Graduate Institute of Biomedical Sciences, Division of Microbiology </br>
     <br>· Worked in oral cancer and nasopharyngeal cancer research in Prof. Dr. Yu-Sun Chang lab. </br>
     <br>· Discovered miRNA regulation of DNA editing enzyme APOBEC3A in APOBEC3B-deletion germline polymorphism.</br>"
+      button:
+    text: "Read Info"
+    url: "https://pure.lib.cgu.edu.tw/zh/publications/transcriptional-regulation-of-dna-editing-enzyme-apobec3a-in-oral/"
+    icon: ""
   - degree: "BSc Biomedical Sciences"
     institution: "Chang Gung University, Taiwan"
     start: "2012-09-01"
@@ -148,7 +152,7 @@ languages:
     level: 1
     label: "Basic"
 awards:
-  - title: "Vivian Wu Journalism Award 2025 for Investigative Journalism"
+  - title: "Vivian Wu Journalism Award for Investigative Journalism"
     awarder: "Vivian Wu Journalism Award Foundation, Taiwan"
     date: "2025-12-01"
     summary: "Awarded for commentary article contributed to Investigative Journalism report on Commonwealth Magazine, about “Taiwan — A Fake Study Abroad Paradise”."
