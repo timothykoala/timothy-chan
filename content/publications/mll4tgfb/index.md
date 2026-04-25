@@ -18,21 +18,21 @@ authors:
 author_notes:
   - ""
 
-date: 2026-01-17T02:19:46.980Z
+date: 2026-01-16T02:19:46.980Z
 
 # Schedule page publish date (NOT publication date).
-publishDate: 2026-01-18T02:19:46.980Z
+publishDate: 2026-01-16T02:19:46.980Z
 
 # Publication type from the CSL standard.
 # Accepts a single type but formatted as a YAML list (Hugo requirement).
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*(In Press)"
-publication_short: "(In Press)"
+publication: "Genes & Development"
+publication_short: "Genes Dev."
 
 abstract: |
-  Transforming growth factor β (TGF-β) signaling is a highly pleiotropic pathway with an important role in development, homeostasis and cancer. Chromatin regulators contribute to the regulation of TGF-β responsive transcription. Requirement of subunits of the MLL3/MLL4 histone methyltransferase complexes for TGF-β responses have been reported. However, their exact roles are not fully understood.
+  Transforming growth factor β (TGF-β) signaling is a highly pleiotropic pathway with an important role in development, homeostasis and cancer. Chromatin regulators contribute to the regulation of TGF-β responsive transcription. Requirement of subunits of the MLL3/MLL4 histone methyltransferase complexes for TGF-β responses have been reported. However, their exact roles are not fully understood. To investigate the functions of these complexes, we employed CRISPR/Cas9 genome editing to inactivate the KMT2C/MLL3 or KMT2D/MLL4 genes in human diploid epithelial cells. Time-course RNA-seq experiments revealed the requirement of MLL4 but not of MLL3 for TGF-β transcriptional responses. CUT&RUN experiments showed that MLL4 binding increases after TGF-β treatment and is especially enriched at AP-1 transcription factor binding sites. Interestingly, TGF-β-induced chromatin binding of MLL4 correlates with increases in H3K27ac but not in H3K4me1 modifications. Furthermore, TGF-β treatment sets off SMAD2-induced JUNB expression, which forms a feed-forward loop with MLL4. By inhibiting the activities of AP-1, the BAF chromatin remodeler, or the CBP/p300 histone acetyltransferase, we found that AP-1 binding and these chromatin regulators are all necessary for TGF-β induction of MLL4 binding and transcriptional activation of its genomic targets. Taken together, our study reveals distinctive roles for the MLL3 and MLL4 paralogs in the transcriptional response to TGF-β. In contrast to MLL3, MLL4 forms a feed-forward loop of JUNB, the BAF complex, and CBP/p300 to sustain transcription activation by TGF-β.
 
 # Summary. An optional shortened abstract.
 summary: "TGF-β induced MLL4 methlytransferase recruiment"
@@ -43,7 +43,7 @@ tags:
   - histone methyltransferase
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Standard identifiers for auto-linking
 hugoblox:
@@ -56,8 +56,8 @@ links:
 #    url: ""
 #  - type: code
 #    url: ""
-#  - type: dataset
-#    url: ""
+  - type: dataset
+    url: "https://dataview.ncbi.nlm.nih.gov/object/PRJNA1315214"
 #  - type: poster
 #    url: ""
 #  - type: project
