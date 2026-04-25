@@ -60,7 +60,7 @@ tags:
 - Oral Cancer
 - APOBEC3A
 - Biomarker
-featured: true
+featured: false
 
 hugoblox:
   ids:
