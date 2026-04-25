@@ -10,7 +10,7 @@ authors:
   - Omid Fotouhi
   - Mert Bozkurt
   - Nizamuddin Sheikh
-  - Katrin Schüle
+  - Katrin M Schüle
   - Sebastian J Arnold
   - H. T. Marc Timmers
 
